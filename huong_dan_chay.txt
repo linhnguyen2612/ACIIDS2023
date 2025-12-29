@@ -1,0 +1,16 @@
+Cải tiến "GIFT4Rec: An Effective Side Information Fusion Technique Apply to Graph Neural Network for Cold-Start Recommendation". ([Link xuất bản chính thức](https://dl.acm.org/doi/abs/10.1007/978-981-99-5834-4_27))
+
+Xử lý dữ liệu Movielens 1M
+ipython ml_1m_eda_one_task_do_an.ipynb
+
+Huấn luyện mô hình cho các thí nghiệm trên bộ dữ liệu Movielens 1M (trừ Melu)
+ipython ml_1m_training_model.ipynb
+
+Huấn luyện mô hình Melu trên bộ dữ liệu Movielens 1M
+ipython load_melu.ipynb
+
+Xử lý dữ liệu Douban
+ipython douban_eda_one_task_do_an.ipynb
+
+Huấn luyện mô hình cho các thí nghiệm trên bộ dữ liệu Douban (trừ Melu)
+ipython douban_training_model.ipynb
